@@ -1,0 +1,66 @@
+
+
+
+. fontCustom { font-size: 30px ip !important;
+
+}
+.nav {
+    display: flex;
+}
+.link { display: inline-block;
+    
+}
+* {
+    box-sizing: border-box ;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: *242424;
+}
+.menu,
+a,
+button {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: 14px;
+    color: darkorange;
+    text-decoration: none; }
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 30px 10%;
+        background-color: linen;}
+        .img1 {
+            width: 40px;
+            height: 40px;
+        }
+        .titolo {
+
+        }
+        
+    .card1 {
+        width: 350px;
+        height: 450px;
+        border: 1px solid black;
+    }
+    .card {
+        width: 350px;
+        height: 450px;
+        border: 1px solid black;
+        border-radius: 0;
+
+    }
+    .card-img-top {
+        width: 348px;
+        height: 232px;
+
+
+    }
+    .img-fluid {
+        width: 522px;
+        height: 250px;
+
+    }
